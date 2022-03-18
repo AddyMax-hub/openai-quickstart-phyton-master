@@ -1,1 +1,1 @@
-# openai-quickstart-node-master
+# openai-quickstart-phyton-master
